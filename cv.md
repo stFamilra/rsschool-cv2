@@ -33,7 +33,7 @@ function mergeArrays(arr1, arr2) {
 
 ## Work experience
 
-!['../layout.jpg'](https://stfamilra.github.io/)
+[layout](https://stfamilra.github.io/)
 
 ## Languages
 
