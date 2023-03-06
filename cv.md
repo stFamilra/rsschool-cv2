@@ -21,11 +21,15 @@
 
 ## Code example
 
-`function mergeArrays(arr1, arr2) {
+```
+
+function mergeArrays(arr1, arr2) {
   return [...new Set([...arr1, ...arr2].sort(function(a, b) {
   return a - b;
 }))]
-}`
+}
+
+```
 
 ## Work experience
 
